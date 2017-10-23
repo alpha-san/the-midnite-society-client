@@ -5,7 +5,7 @@ const Home = () => (
 <div>
 <div className="video-container">
 <video className="video video-bg" loop="loop" muted="" width="300" height="150">
-      <source src="TMS_HOME.webm" type="video/webm" />
+      <source src="https://themidnitesociety.blob.core.windows.net/core/TMS_HOME.webm" type="video/webm" />
   </video>
 
   <div className="container content">
@@ -15,18 +15,18 @@ const Home = () => (
 
 
   <div className="socialMediaSection">
-      <a href="https://www.facebook.com/themidnitesocietycollective/" className="socialMediaLink"><img src="facebook.png" /></a>
-      <a href="https://soundcloud.com/tmscollective" target="_blank" className="socialMediaLink"><img src="soundcloud.png" /></a>
-      <a href="https://twitter.com/whoisTMS" target="_blank" className="socialMediaLink"><img src="twitter.png" /></a>
+      <a href="https://www.facebook.com/themidnitesocietycollective/" className="socialMediaLink"><img src="https://themidnitesociety.blob.core.windows.net/core/facebook.png" /></a>
+      <a href="https://soundcloud.com/tmscollective" target="_blank" className="socialMediaLink"><img src="https://themidnitesociety.blob.core.windows.net/core/soundcloud.png" /></a>
+      <a href="https://twitter.com/whoisTMS" target="_blank" className="socialMediaLink"><img src="https://themidnitesociety.blob.core.windows.net/core/twitter.png" /></a>
       <a href="https://www.youtube.com/channel/UCDnyxqKo5C4buATtCtcqYNg" target="_blank" className="socialMediaLink"><img src="youtube.png" /></a>
-      <a href="https://www.instagram.com/tmscollective/" target="_blank" className="socialMediaLink"><img src="instagram.png" /></a>
+      <a href="https://www.instagram.com/tmscollective/" target="_blank" className="socialMediaLink"><img src="https://themidnitesociety.blob.core.windows.net/core/instagram.png" /></a>
   </div>
   </div>
 </div>
 
 <div className="video-container">
 <video className="video video-bg" loop="loop" muted="" width="300" height="150">
-      <source src="TMS_WORK.webm" type="video/webm" />
+      <source src="https://themidnitesociety.blob.core.windows.net/core/TMS_WORK.webm" type="video/webm" />
   </video>
 
   <div id="work-section" className="container content">
@@ -50,7 +50,7 @@ const Home = () => (
 
 <div id="blog-section" className="video-container">
 <video className="video video-bg" loop="loop" muted="" width="300" height="150">
-      <source src="TMS_BLOG.webm" type="video/webm" />
+      <source src="https://themidnitesociety.blob.core.windows.net/core/TMS_BLOG.webm" type="video/webm" />
   </video>
 
   <div className="container content">
@@ -75,7 +75,7 @@ const Home = () => (
 
 <div className="video-container">
 <video className="video video-bg" loop="loop" muted="" width="300" height="150">
-      <source src="TMS_STORE.webm" type="video/webm" />
+      <source src="https://themidnitesociety.blob.core.windows.net/core/TMS_STORE.webm" type="video/webm" />
   </video>
 
   <div className="container content">
@@ -93,7 +93,7 @@ const Home = () => (
 
 <div id="contact-section" className="video-container">
 <video className="video video-bg" loop="loop" muted="" width="300" height="150">
-      <source src="TMS_CONTACT.webm" type="video/webm" />
+      <source src="https://themidnitesociety.blob.core.windows.net/core/TMS_CONTACT.webm" type="video/webm" />
   </video>
 
   <div className="container content">
