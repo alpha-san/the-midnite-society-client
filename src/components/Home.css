@@ -1,0 +1,148 @@
+body {
+    padding-top: 50px;
+    background: #222222;
+  }
+  .starter-template {
+    padding: 20px 15px;
+    text-align: center;
+  }
+  
+  h1, p, a, div {
+      font-family: 'Lato', sans-serif !important;
+      color: white;
+  }
+  
+  p, a {
+      font-weight: light !important;
+      color: white;
+  }
+  
+  .hero-header {
+      padding-bottom: 30px;
+      font-size: 4.5em;
+      font-weight: bold;	
+  }
+
+  .hero-header span {
+    color: #6e1d75;
+  }
+  
+  .socialMediaSection {
+      text-align: center;	
+  }
+  
+  .socialMediaLink {
+      padding-left: 10px;
+    padding-right: 10px;	
+    cursor: pointer;
+  }
+  
+  .video-bg {
+    position: relative;
+    width: auto;
+    min-width: 100%;
+    height: auto;
+    /*background: transparent url(../../public/video-bg.jpg) no-repeat;*/
+    background-size: cover;
+  }
+  video {
+    display: block;
+  }
+  .video-container {
+    width: 100%;
+    max-height: 800px;
+    overflow: hidden;
+    /*position: fixed;*/
+    position: relative;
+    top: 0;
+    right: 0;
+    /*z-index: -100;*/ /*this messes up z-index for children*/
+  }
+  
+  .content {
+      position: absolute;
+      left: 0;
+      right: 0;
+      margin: auto;
+      top: 29%;
+      text-align: center;
+  }
+  
+  .navbar-inverse {
+      background-color: #000;	
+  }
+  
+  .lead {
+      width: 70%;
+      margin: 0 auto;
+      padding-bottom: 4%;
+  }
+  
+  footer {
+      background: #222;
+      height: 50px;
+  }
+  
+  .footerText {
+      margin-top: 14px;
+      text-align: center;
+  }
+
+  #work-section {
+    top: 24%;
+  }
+
+  #blog-section .tms-cust-button {
+    height: 67px;
+  }
+
+  #contact-section .tms-cust-button {
+    height: 95px;
+  }
+  
+  /* START - Center Navbar items*/
+  .navbar-nav {
+      width: 100%;
+      text-align: center;
+  }
+  .navbar-nav>li {
+      float: initial;
+    line-height: 150px;
+  }
+  .nav>li {
+      display:inline-block;
+  }
+  /* END - Center Navbar items*/
+  
+  .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+      color: #6e1d75;	
+  }
+  
+  .herolink {
+      text-decoration: underline;
+  }
+  
+  .tms-cust-button {
+      width: 200px;
+      height: 39px;
+      margin: 0 auto;
+      border-color: #ffffff;
+      border-style: solid;
+      font-size: 1.5em;
+      margin-top: 30px;
+  }
+  
+  .tms-cust-button-link {
+    text-decoration: none; 
+  }
+  
+  a:hover, a:visited, a:link, a:active {
+      text-decoration: none;
+  }
+  
+  ::selection {
+    background: #b19cd9; /* WebKit/Blink Browsers */
+  }
+  ::-moz-selection {
+    background: #b19cd9; /* Gecko Browsers */
+  }
