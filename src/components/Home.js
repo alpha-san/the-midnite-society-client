@@ -18,7 +18,7 @@ const Home = () => (
       <a href="https://www.facebook.com/themidnitesocietycollective/" className="socialMediaLink"><img src="https://themidnitesociety.blob.core.windows.net/core/facebook.png" /></a>
       <a href="https://soundcloud.com/tmscollective" target="_blank" className="socialMediaLink"><img src="https://themidnitesociety.blob.core.windows.net/core/soundcloud.png" /></a>
       <a href="https://twitter.com/whoisTMS" target="_blank" className="socialMediaLink"><img src="https://themidnitesociety.blob.core.windows.net/core/twitter.png" /></a>
-      <a href="https://www.youtube.com/channel/UCDnyxqKo5C4buATtCtcqYNg" target="_blank" className="socialMediaLink"><img src="youtube.png" /></a>
+      <a href="https://www.youtube.com/channel/UCDnyxqKo5C4buATtCtcqYNg" target="_blank" className="socialMediaLink"><img src="https://themidnitesociety.blob.core.windows.net/core/youtube.png" /></a>
       <a href="https://www.instagram.com/tmscollective/" target="_blank" className="socialMediaLink"><img src="https://themidnitesociety.blob.core.windows.net/core/instagram.png" /></a>
   </div>
   </div>
